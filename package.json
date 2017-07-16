@@ -35,6 +35,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "fnv-plus": "^1.2.12",
+    "fnv-plus": "^1.2.12"
   }
 }
