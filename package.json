@@ -36,6 +36,5 @@
   },
   "dependencies": {
     "fnv-plus": "^1.2.12",
-    "kendo-ui-webpack": "~1.0.1"
   }
 }
